@@ -6,4 +6,8 @@ body{
 head{
 	font-size: 12rem;
 }
+section{
+	margin: 12px;
+	display: flex;
+}
 
