@@ -1,4 +1,8 @@
 body{
 	background-color: grey;
 }
+section{
+	display: grid;
+	padding: 12px;
+}
 
